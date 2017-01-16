@@ -1,0 +1,560 @@
+[22-Aug-2016 14:45:31 America/Chicago] PHP Notice:  Undefined variable: sq1 in /home/ad977c0f/public_html/admin/index.php on line 4
+[22-Aug-2016 14:45:31 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home/ad977c0f/public_html/admin/index.php on line 4
+[22-Aug-2016 14:47:25 America/Chicago] PHP Notice:  Undefined variable: sq1 in /home/ad977c0f/public_html/admin/index.php on line 4
+[22-Aug-2016 14:47:25 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home/ad977c0f/public_html/admin/index.php on line 4
+[22-Aug-2016 14:47:31 America/Chicago] PHP Notice:  Undefined variable: sq1 in /home/ad977c0f/public_html/admin/index.php on line 4
+[22-Aug-2016 14:47:31 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home/ad977c0f/public_html/admin/index.php on line 4
+[22-Aug-2016 14:53:22 America/Chicago] PHP Notice:  Undefined variable: sq1 in /home/ad977c0f/public_html/admin/index.php on line 4
+[22-Aug-2016 14:53:22 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home/ad977c0f/public_html/admin/index.php on line 4
+[22-Aug-2016 14:56:17 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/ad977c0f/public_html/admin/index.php on line 4
+[22-Aug-2016 14:56:17 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'ad977c0f'@'localhost' (using password: NO) in /home/ad977c0f/public_html/admin/index.php on line 4
+[22-Aug-2016 14:56:17 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ad977c0f/public_html/admin/index.php on line 4
+[22-Aug-2016 14:56:17 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ad977c0f/public_html/admin/index.php on line 4
+[22-Aug-2016 15:09:47 America/Chicago] PHP Notice:  Undefined variable: servername in /home/ad977c0f/public_html/admin/index.php on line 19
+[22-Aug-2016 16:35:56 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/ad977c0f/public_html/admin/Login.php:29) in /home/ad977c0f/public_html/admin/Login.php on line 31
+[22-Aug-2016 16:35:56 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/Login.php:29) in /home/ad977c0f/public_html/admin/Login.php on line 31
+[22-Aug-2016 16:36:04 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/ad977c0f/public_html/admin/Login.php:29) in /home/ad977c0f/public_html/admin/Login.php on line 31
+[22-Aug-2016 16:36:04 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/Login.php:29) in /home/ad977c0f/public_html/admin/Login.php on line 31
+[22-Aug-2016 16:36:47 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/ad977c0f/public_html/admin/Login.php:29) in /home/ad977c0f/public_html/admin/Login.php on line 31
+[22-Aug-2016 16:36:47 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/Login.php:29) in /home/ad977c0f/public_html/admin/Login.php on line 31
+[22-Aug-2016 16:36:47 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/ad977c0f/public_html/admin/Login.php on line 38
+[22-Aug-2016 16:36:47 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ad977c0f/public_html/admin/Login.php on line 38
+[22-Aug-2016 16:38:59 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/Login.php:29) in /home/ad977c0f/public_html/admin/Login.php on line 31
+[22-Aug-2016 16:39:03 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/Login.php:29) in /home/ad977c0f/public_html/admin/Login.php on line 31
+[22-Aug-2016 16:39:39 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/Login.php:29) in /home/ad977c0f/public_html/admin/Login.php on line 31
+[22-Aug-2016 16:39:39 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/ad977c0f/public_html/admin/Login.php on line 38
+[22-Aug-2016 16:39:39 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ad977c0f/public_html/admin/Login.php on line 38
+[22-Aug-2016 16:40:54 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/ad977c0f/public_html/admin/Login.php on line 10
+[22-Aug-2016 16:40:54 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ad977c0f/public_html/admin/Login.php on line 10
+[22-Aug-2016 16:43:37 America/Chicago] PHP Notice:  Undefined variable: sql in /home/ad977c0f/public_html/admin/Login.php on line 10
+[22-Aug-2016 16:43:37 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/ad977c0f/public_html/admin/Login.php on line 10
+[22-Aug-2016 16:43:37 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/ad977c0f/public_html/admin/Login.php on line 11
+[22-Aug-2016 16:43:43 America/Chicago] PHP Notice:  Undefined variable: sql in /home/ad977c0f/public_html/admin/Login.php on line 10
+[22-Aug-2016 16:43:43 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/ad977c0f/public_html/admin/Login.php on line 10
+[22-Aug-2016 16:43:43 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/ad977c0f/public_html/admin/Login.php on line 11
+[22-Aug-2016 16:44:11 America/Chicago] PHP Notice:  Undefined variable: sql in /home/ad977c0f/public_html/admin/Login.php on line 10
+[22-Aug-2016 16:44:11 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/ad977c0f/public_html/admin/Login.php on line 10
+[22-Aug-2016 16:44:11 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/ad977c0f/public_html/admin/Login.php on line 11
+[22-Aug-2016 16:45:11 America/Chicago] PHP Notice:  Undefined variable: sql in /home/ad977c0f/public_html/admin/Login.php on line 10
+[22-Aug-2016 16:45:11 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/ad977c0f/public_html/admin/Login.php on line 10
+[22-Aug-2016 16:45:11 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/ad977c0f/public_html/admin/Login.php on line 11
+[22-Aug-2016 16:45:16 America/Chicago] PHP Notice:  Undefined variable: sql in /home/ad977c0f/public_html/admin/Login.php on line 10
+[22-Aug-2016 16:45:16 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/ad977c0f/public_html/admin/Login.php on line 10
+[22-Aug-2016 16:45:16 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/ad977c0f/public_html/admin/Login.php on line 11
+[22-Aug-2016 16:45:28 America/Chicago] PHP Notice:  Undefined variable: sql in /home/ad977c0f/public_html/admin/Login.php on line 10
+[22-Aug-2016 16:45:28 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/ad977c0f/public_html/admin/Login.php on line 10
+[22-Aug-2016 16:45:28 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/ad977c0f/public_html/admin/Login.php on line 11
+[22-Aug-2016 16:46:32 America/Chicago] PHP Notice:  Undefined variable: sql in /home/ad977c0f/public_html/admin/Login.php on line 10
+[22-Aug-2016 16:46:32 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/ad977c0f/public_html/admin/Login.php on line 10
+[22-Aug-2016 16:46:32 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/ad977c0f/public_html/admin/Login.php on line 11
+[22-Aug-2016 16:46:43 America/Chicago] PHP Notice:  Undefined variable: sql in /home/ad977c0f/public_html/admin/Login.php on line 10
+[22-Aug-2016 16:46:43 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/ad977c0f/public_html/admin/Login.php on line 10
+[22-Aug-2016 16:46:43 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/ad977c0f/public_html/admin/Login.php on line 11
+[22-Aug-2016 16:49:38 America/Chicago] PHP Notice:  Undefined variable: sql in /home/ad977c0f/public_html/admin/Login.php on line 21
+[22-Aug-2016 16:49:38 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/ad977c0f/public_html/admin/Login.php on line 21
+[22-Aug-2016 16:49:38 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/ad977c0f/public_html/admin/Login.php on line 22
+[22-Aug-2016 16:49:51 America/Chicago] PHP Notice:  Undefined variable: sql in /home/ad977c0f/public_html/admin/Login.php on line 21
+[22-Aug-2016 16:49:51 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/ad977c0f/public_html/admin/Login.php on line 21
+[22-Aug-2016 16:49:51 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/ad977c0f/public_html/admin/Login.php on line 22
+[22-Aug-2016 16:50:27 America/Chicago] PHP Notice:  Undefined variable: sql in /home/ad977c0f/public_html/admin/Login.php on line 21
+[22-Aug-2016 16:50:27 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/ad977c0f/public_html/admin/Login.php on line 21
+[22-Aug-2016 16:50:27 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/ad977c0f/public_html/admin/Login.php on line 22
+[22-Aug-2016 16:50:33 America/Chicago] PHP Notice:  Undefined variable: sql in /home/ad977c0f/public_html/admin/Login.php on line 21
+[22-Aug-2016 16:50:33 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/ad977c0f/public_html/admin/Login.php on line 21
+[22-Aug-2016 16:50:33 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/ad977c0f/public_html/admin/Login.php on line 22
+[22-Aug-2016 16:52:30 America/Chicago] PHP Notice:  Undefined variable: sql in /home/ad977c0f/public_html/admin/Login.php on line 21
+[22-Aug-2016 16:52:30 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/ad977c0f/public_html/admin/Login.php on line 21
+[22-Aug-2016 16:52:30 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/ad977c0f/public_html/admin/Login.php on line 22
+[22-Aug-2016 16:56:16 America/Chicago] PHP Notice:  Undefined variable: sql in /home/ad977c0f/public_html/admin/Login.php on line 21
+[22-Aug-2016 16:56:16 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/ad977c0f/public_html/admin/Login.php on line 21
+[22-Aug-2016 16:56:16 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/ad977c0f/public_html/admin/Login.php on line 22
+[22-Aug-2016 16:57:27 America/Chicago] PHP Notice:  Undefined variable: row in /home/ad977c0f/public_html/admin/Login.php on line 26
+[22-Aug-2016 16:57:28 America/Chicago] PHP Notice:  Undefined variable: row in /home/ad977c0f/public_html/admin/Login.php on line 27
+[22-Aug-2016 16:57:28 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ad977c0f/public_html/admin/Login.php:26) in /home/ad977c0f/public_html/admin/Login.php on line 28
+[22-Aug-2016 16:57:44 America/Chicago] PHP Notice:  Undefined variable: row in /home/ad977c0f/public_html/admin/Login.php on line 26
+[22-Aug-2016 16:57:44 America/Chicago] PHP Notice:  Undefined variable: row in /home/ad977c0f/public_html/admin/Login.php on line 27
+[22-Aug-2016 16:57:44 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ad977c0f/public_html/admin/Login.php:26) in /home/ad977c0f/public_html/admin/Login.php on line 28
+[22-Aug-2016 17:02:09 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[24-Aug-2016 12:28:32 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[24-Aug-2016 12:40:21 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[24-Aug-2016 13:22:06 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[24-Aug-2016 16:34:14 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[24-Aug-2016 20:39:11 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[25-Aug-2016 02:55:23 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[25-Aug-2016 05:53:11 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[25-Aug-2016 12:47:37 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[25-Aug-2016 14:45:42 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[25-Aug-2016 16:22:01 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[25-Aug-2016 23:47:56 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[26-Aug-2016 08:09:35 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[26-Aug-2016 09:18:41 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[26-Aug-2016 09:18:50 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[26-Aug-2016 09:26:05 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[26-Aug-2016 10:59:33 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[26-Aug-2016 11:14:45 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[26-Aug-2016 11:17:30 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[26-Aug-2016 12:00:41 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[26-Aug-2016 12:59:58 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[26-Aug-2016 15:28:06 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 06:37:40 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 07:49:51 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 07:55:13 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 07:57:16 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 08:05:56 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 08:09:58 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 08:10:03 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 08:10:10 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 08:10:15 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 08:10:19 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 08:12:14 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 08:25:02 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 08:50:14 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 09:05:18 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 09:27:18 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 09:28:26 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 09:28:30 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 09:29:29 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 09:36:15 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 10:00:48 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 10:05:52 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 10:53:31 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 10:53:31 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 10:53:40 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 10:53:40 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 10:53:40 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 10:53:40 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 10:54:00 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 11:46:43 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 12:00:51 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 12:08:14 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 15:03:52 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 15:08:42 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 15:10:42 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 15:13:37 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 15:13:40 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 15:14:26 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 15:20:59 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 15:24:58 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 15:38:59 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 18:08:02 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 20:30:35 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 22:17:42 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[27-Aug-2016 22:17:42 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[28-Aug-2016 01:08:08 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[28-Aug-2016 01:08:08 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[28-Aug-2016 01:17:54 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/ad977c0f/public_html/admin/Login.php on line 22
+[28-Aug-2016 01:17:54 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/ad977c0f/public_html/admin/Login.php on line 24
+[28-Aug-2016 01:17:55 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/ad977c0f/public_html/admin/Login.php on line 22
+[28-Aug-2016 01:17:55 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/ad977c0f/public_html/admin/Login.php on line 24
+[28-Aug-2016 01:19:59 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[28-Aug-2016 01:21:28 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[28-Aug-2016 01:21:28 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[28-Aug-2016 02:22:45 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[28-Aug-2016 02:26:16 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[28-Aug-2016 02:45:15 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[28-Aug-2016 03:12:50 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[28-Aug-2016 03:12:50 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[28-Aug-2016 03:13:06 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[28-Aug-2016 03:13:06 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[28-Aug-2016 03:13:17 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[28-Aug-2016 03:13:17 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[28-Aug-2016 03:13:24 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[28-Aug-2016 03:13:24 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[28-Aug-2016 03:16:46 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[28-Aug-2016 05:25:32 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[28-Aug-2016 07:11:21 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[28-Aug-2016 07:40:01 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[28-Aug-2016 09:54:41 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[28-Aug-2016 10:12:37 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[28-Aug-2016 10:12:40 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[28-Aug-2016 10:14:23 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[28-Aug-2016 10:24:05 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[28-Aug-2016 11:18:11 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[28-Aug-2016 11:28:37 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[29-Aug-2016 07:59:39 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[29-Aug-2016 09:01:58 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[29-Aug-2016 12:10:54 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[29-Aug-2016 12:17:02 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/member.php:22) in /home/ad977c0f/public_html/admin/member.php on line 23
+[29-Aug-2016 12:19:36 America/Chicago] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/ad977c0f/public_html/admin/index.php on line 20
+[29-Aug-2016 12:19:36 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ad977c0f/public_html/admin/index.php on line 20
+[29-Aug-2016 12:19:36 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/ad977c0f/public_html/admin/index.php on line 20
+[29-Aug-2016 12:19:36 America/Chicago] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/ad977c0f/public_html/admin/index.php on line 21
+[29-Aug-2016 12:19:36 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ad977c0f/public_html/admin/index.php on line 21
+[29-Aug-2016 12:19:36 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/ad977c0f/public_html/admin/index.php on line 21
+[29-Aug-2016 12:19:36 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/ad977c0f/public_html/admin/index.php on line 23
+[29-Aug-2016 12:19:36 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ad977c0f/public_html/admin/index.php on line 23
+[29-Aug-2016 12:19:36 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ad977c0f/public_html/admin/index.php on line 23
+[29-Aug-2016 12:19:36 America/Chicago] PHP Notice:  Undefined variable: query in /home/ad977c0f/public_html/admin/index.php on line 23
+[29-Aug-2016 12:20:04 America/Chicago] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/ad977c0f/public_html/admin/index.php on line 20
+[29-Aug-2016 12:20:04 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ad977c0f/public_html/admin/index.php on line 20
+[29-Aug-2016 12:20:04 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/ad977c0f/public_html/admin/index.php on line 20
+[29-Aug-2016 12:20:04 America/Chicago] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/ad977c0f/public_html/admin/index.php on line 21
+[29-Aug-2016 12:20:04 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ad977c0f/public_html/admin/index.php on line 21
+[29-Aug-2016 12:20:04 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/ad977c0f/public_html/admin/index.php on line 21
+[29-Aug-2016 12:20:04 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/ad977c0f/public_html/admin/index.php on line 23
+[29-Aug-2016 12:20:04 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ad977c0f/public_html/admin/index.php on line 23
+[29-Aug-2016 12:20:04 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ad977c0f/public_html/admin/index.php on line 23
+[29-Aug-2016 12:20:04 America/Chicago] PHP Notice:  Undefined variable: query in /home/ad977c0f/public_html/admin/index.php on line 23
+[29-Aug-2016 12:22:46 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/index.php:5) in /home/ad977c0f/public_html/admin/index.php on line 6
+[29-Aug-2016 12:23:02 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/index.php:5) in /home/ad977c0f/public_html/admin/index.php on line 6
+[29-Aug-2016 12:23:02 America/Chicago] PHP Notice:  Undefined index: username in /home/ad977c0f/public_html/admin/index.php on line 21
+[29-Aug-2016 12:23:16 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/index.php:5) in /home/ad977c0f/public_html/admin/index.php on line 6
+[29-Aug-2016 12:23:16 America/Chicago] PHP Notice:  Undefined index: username in /home/ad977c0f/public_html/admin/index.php on line 21
+[29-Aug-2016 12:24:18 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ad977c0f/public_html/admin/index.php:5) in /home/ad977c0f/public_html/admin/index.php on line 6
+[29-Aug-2016 12:24:18 America/Chicago] PHP Notice:  Undefined index: username in /home/ad977c0f/public_html/admin/index.php on line 21
+[02-Sep-2016 05:07:18 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/ad977c0f/public_html/admin/Login.php on line 22
+[02-Sep-2016 05:07:18 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/ad977c0f/public_html/admin/Login.php on line 24
+[02-Sep-2016 14:52:31 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/ad977c0f/public_html/admin/Login.php on line 22
+[02-Sep-2016 14:52:31 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/ad977c0f/public_html/admin/Login.php on line 24
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[06-Sep-2016 12:10:03 America/Chicago] PHP Notice:  Undefined index: tshirt in /home/ad977c0f/public_html/admin/member.php on line 45
+[12-Sep-2016 18:00:26 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/ad977c0f/public_html/admin/member.php on line 32
+[12-Sep-2016 18:00:51 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/ad977c0f/public_html/admin/member.php on line 32
+[24-Sep-2016 14:00:33 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/ad977c0f/public_html/admin/member.php on line 32
+[28-Sep-2016 02:00:39 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/ad977c0f/public_html/admin/member.php on line 32
+[28-Sep-2016 16:42:48 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/ad977c0f/public_html/admin/index.php on line 22
+[28-Sep-2016 16:42:48 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/ad977c0f/public_html/admin/index.php on line 24
+[30-Sep-2016 10:00:12 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/ad977c0f/public_html/admin/member.php on line 32
+[30-Sep-2016 10:00:23 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/ad977c0f/public_html/admin/member.php on line 32
+[30-Sep-2016 10:00:28 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/ad977c0f/public_html/admin/index.php on line 10
+[30-Sep-2016 16:13:24 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/ad977c0f/public_html/admin/Login.php on line 22
+[30-Sep-2016 16:13:24 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/ad977c0f/public_html/admin/Login.php on line 24
+[30-Sep-2016 16:13:48 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/ad977c0f/public_html/admin/Login.php on line 22
+[30-Sep-2016 16:13:48 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/ad977c0f/public_html/admin/Login.php on line 24
+[06-Oct-2016 02:00:35 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/ad977c0f/public_html/admin/index.php on line 10
+[06-Oct-2016 06:00:36 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/ad977c0f/public_html/admin/member.php on line 32
+[06-Oct-2016 11:57:18 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/ad977c0f/public_html/admin/member.php on line 32
+[07-Oct-2016 06:11:13 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ad977c0f/public_html/facebook_login_with_php_new/admin/member.php on line 45
+[07-Oct-2016 06:11:58 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/ad977c0f/public_html/facebook_login_with_php_new/admin/member.php on line 45
